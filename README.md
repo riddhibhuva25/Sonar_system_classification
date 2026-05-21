@@ -113,13 +113,5 @@ jupyter notebook
 
 ---
 
-## 💡 Future Improvements
-
-* Try different models (SVM, Random Forest)
-* Perform hyperparameter tuning
-* Improve accuracy with feature engineering
-
----
-
 
 ⭐ If you like this project, don't forget to give it a star!
